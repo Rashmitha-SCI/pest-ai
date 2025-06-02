@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+#preview img {
+  max-width: 300px;
+  margin-top: 10px;
+}
