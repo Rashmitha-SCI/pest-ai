@@ -10,7 +10,7 @@ body {
 }
 
 .background {
-  background-image: url('assets/coconut-bg.png'); /* Your image path */
+  background-image: url('/assets/coconut-bg.png'); /* Your image path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
